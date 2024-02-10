@@ -20,6 +20,10 @@ A simple basic starter set up of a blog web application.
 ### Installing
 
 - Download files to your local host and open with a local server
+- Install all packages by running 
+```
+npm i
+```
 
 ### Executing program
 
